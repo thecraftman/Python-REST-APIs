@@ -6,8 +6,7 @@ Understanding the Basics of the python Flask API
 ### This is a Basic Python Flask Framework used to implement a REST API
 
 ## Introduction
-RESTful API
-
+### RESTful API
 
 A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
 
