@@ -3,6 +3,8 @@ Understanding the Basics of the python Flask API
 
 `You will be able to learn and understand how to design and implement RESTful API’s via the Flask framework.`
 
+### This is a Basic Python Flask Framework used to implement a REST API
+
 ## Introduction
 RESTful API
 
@@ -18,5 +20,16 @@ REST technology is generally preferred to the more robust Simple Object Access P
 
 ## Installation
 Here is a guide to Flask [Installation](https://flask-restful.readthedocs.io/en/latest/)
+
+## Contributing 
+ Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
+
+## How can I thank you?
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or Destructoid ? Spread the word! 
+
+Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
+
+Thanks! Ore-Aruwaji Oloruntola
+
 
 
