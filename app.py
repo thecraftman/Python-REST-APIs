@@ -7,7 +7,7 @@ def hello_world():
 
 
 @app.route('/hithere')
-def hi_everyone_there_():
+def hi_everyone_there_()
     return "I just hit/hithere"
 
 @app.route('/add_two_nums', methods=["POST", "GET"])
