@@ -15,7 +15,7 @@ def add_two_nums():
     #Get x,y from the posted data
     dataDict = request.get_json()
     x = dataDict["x"]
-    y = dataDict["y"
+    y = dataDict["y"]
     
 
     #Add z=x+y
