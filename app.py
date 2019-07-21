@@ -18,7 +18,7 @@ def add_two_nums():
     y = dataDict["y"]
     
 
-    #Add z=x+
+    #Add z=x+y
     z = x+y
 
     #prepare a json "z":z
