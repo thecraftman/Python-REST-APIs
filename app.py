@@ -32,7 +32,7 @@ def add_two_nums():
 
 
 
-@app.route('/bye')
+@app.route('/bye'
 def bye():
     #Prepare a respose for the request tat came to /bye
     c = 2*534
