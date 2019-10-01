@@ -49,7 +49,7 @@ def bye():
             },
             {
                 "phoneName":"Nokia",
-                "phoneNumber": 11121
+                "phoneNumber": 111
             }
 
         ]
