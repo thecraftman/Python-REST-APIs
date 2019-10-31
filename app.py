@@ -1,15 +1,15 @@
-from flask import Flask, jsonify, reques
+from flask import Flask, jsonify, request
 app = Flask("__name__")
 
 @app.route('/')
 def hello_world():
     return "Hello World!"
 
-
 @app.route('/hithere')
 def hi_everyone_there_():
-    return "I just hit/hith
+    return "I just hit/hith"
 
+# This handles either GET or POST request
 @app.route('/add_two_nums', methods=["POST", "GET"])
 def add_two_nums():
     #Get x,y from the posted data
@@ -31,7 +31,7 @@ def add_two_nums():
 
 
 
-
+# This is a definitely a GET request
 @app.route('/bye')
 def bye():
     #Prepare a respose for the request tat came to /bye
@@ -57,6 +57,17 @@ def bye():
 
     }
     return jsonify(retJson)
+
+
+# PUT REQUEST
+@app.route('/update_me/<id>', methods="PUT")
+def update():
+    return jsonify({'msg': 'Your id ' +id+ ' has been updated'})
+
+# DELETE REQUEST
+@app.route('/delete_me/<id>', methods="DELETE")
+def delete():
+    return jsonify({'msg': 'Id '+id+' has been deleted'})
 
 
 if "__name__" == "__main__":
