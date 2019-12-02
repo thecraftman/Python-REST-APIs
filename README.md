@@ -1,5 +1,5 @@
 # Python-REST-APIS
-Understanding the Basics of the python Flask AP
+Understanding the Basics of the python Flask API
 
 `You will be able to learn and understand how to design and implement RESTful API’s via the Flask framework.`
 
