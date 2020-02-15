@@ -3,7 +3,7 @@ Understanding the Basics of the python Flask API
 
 `You will be able to learn and understand how to design and implement RESTful API’s via the Flask framework.`
 
-### This is a Basic Python Flask Framework used to implement a REST API
+### This is a Basic Python Flask Framework used to implement a REST AP
 
 ## Introduction
 ### RESTful API
