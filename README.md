@@ -1,4 +1,4 @@
-# Python-REST-AP
+# Python-REST-API
 Understanding the Basics of the python Flask API
 
 `You will be able to learn and understand how to design and implement RESTful API’s via the Flask framework.`
@@ -17,7 +17,7 @@ REST technology is generally preferred to the more robust Simple Object Access P
 ### For more Information about the RESTFUl API visit [here](https://www.sitepoint.com/developers-rest-api/)
 
 
-## Installati
+## Installation
 Here is a guide to Flask [Installation](https://flask-restful.readthedocs.io/en/latest/)
 
 ## Contributing 
